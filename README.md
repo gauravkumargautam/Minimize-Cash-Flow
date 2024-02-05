@@ -10,3 +10,8 @@ Do following for every person Pi where i is from 0 to n-1 :
 3. Find the minimum of maxDebit and maxCredit. Let minimum of two be x. Debit ‘x’ from Pd and credit this amount to Pc
 4. If x is equal to maxCredit, then remove Pc from set of persons and recur for remaining (n-1) persons.
 5. If x is equal to maxDebit, then remove Pd from set of persons and recur for remaining (n-1) persons.
+
+**How to use :**
+* Click here : https://minimize-cashflow-website.netlify.app/
+* Click on the get new problem icon at the bottom
+* Finally click the solve button to get the solution 
