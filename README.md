@@ -2,7 +2,7 @@
 Developed and implemented utilizing HTML, CSS, and JavaScript to ease several transactions into minimal transactions to make transactions more accessible and efficient. The underlying data structure used for the implementation of the project is heaps that can be visualized through a directed graph.
 
 ![project_image](https://github.com/gauravkumargautam/Minimize-Cash-Flow/assets/144528033/3e0ffffc-b807-40b7-8fac-19ae772c5f02)
-Minimize Cash Flow Algorithm:
+**Minimize Cash Flow Algorithm:**
 
 Do following for every person Pi where i is from 0 to n-1 :
 1. Compute the net amount for every person. The net amount for person ‘i’ can be computed be subtracting sum of all debts from sum of all credits.
